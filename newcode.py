@@ -1,1 +1,1 @@
-print("ths is newcode file code")
+print"ths is newcode file code")
