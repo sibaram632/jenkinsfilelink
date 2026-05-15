@@ -1,1 +1,1 @@
-print("Wassup Buddy v6")
+print("Wassup Buddy v6this has updated for send mail project")
